@@ -1,5 +1,5 @@
 ### Hi there! 😃
-My name is Agata and I’m self‑taught web developer. Curently gaining new skills and looking for my first experience as a frontend programmer. 👩‍💼:dart:
+My name is Agata and I’m self‑taught web developer. Curently gaining new skills and looking for my first experience as a frontend programmer. 👩‍💼🎯
 
 📫 Feel free to contact me by e-mail: agata.react@gmail.com or via <a href="https://www.linkedin.com/in/agata-borkowska-6b2675152/" target="blank">LinkedIn</a>
 
